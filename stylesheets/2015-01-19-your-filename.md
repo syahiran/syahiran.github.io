@@ -87,6 +87,7 @@ html { font-size: 100%; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 10
 /*-----------------------------------*/
 
 body {
+	 width:1920px;
     font-family: 'Open Sans', sans-serif;
     font-size:13px;
     font-weight: 300;
